@@ -1,0 +1,104 @@
+{
+    "object": "list",
+    "data": [
+      {
+        "id": "llama-3.1-70b-versatile",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Meta",
+        "active": true,
+        "context_window": 131072,
+        "public_apps": null
+      },
+      {
+        "id": "llama-3.1-8b-instant",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Meta",
+        "active": true,
+        "context_window": 131072,
+        "public_apps": null
+      },
+      {
+        "id": "llama3-70b-8192",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Meta",
+        "active": true,
+        "context_window": 8192,
+        "public_apps": null
+      },
+      {
+        "id": "llama3-8b-8192",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Meta",
+        "active": true,
+        "context_window": 8192,
+        "public_apps": null
+      },
+      {
+        "id": "mixtral-8x7b-32768",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Mistral AI",
+        "active": true,
+        "context_window": 32768,
+        "public_apps": null
+      },
+      {
+        "id": "claude-3-5-sonnet-20240620",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Anthropic",
+        "active": true,
+        "context_window": 200000,
+        "public_apps": null
+      },
+      {
+        "id": "claude-3-opus-20240229",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Anthropic",
+        "active": true,
+        "context_window": 200000,
+        "public_apps": null
+      },
+      {
+        "id": "claude-3-sonnet-20240229",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Anthropic",
+        "active": true,
+        "context_window": 200000,
+        "public_apps": null
+      },
+      {
+        "id": "claude-3-haiku-20240307",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Anthropic",
+        "active": true,
+        "context_window": 200000,
+        "public_apps": null
+      },
+      {
+        "id": "gemini-1.5-flash-latest",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Google",
+        "active": true,
+        "context_window": 131072,
+        "public_apps": null
+      },
+      {
+        "id": "gemini-1.5-pro-latest",
+        "object": "model",
+        "created": 1693721698,
+        "owned_by": "Google",
+        "active": true,
+        "context_window": 1000000,
+        "public_apps": null
+      }
+    ]
+  }
